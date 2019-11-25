@@ -1,3 +1,2 @@
-# LeetCode
-LeetCode Algorithms' Solutions.
+#LeetCode Algorithms' Solutions.
 Easy20----------有效的括号

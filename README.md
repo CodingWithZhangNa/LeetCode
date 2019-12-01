@@ -1,3 +1,4 @@
 LeetCode Algorithms' Solutions.
 
-Easy20----------有效的括号
+Easy0001----------两数之和
+Easy0020----------有效的括号
